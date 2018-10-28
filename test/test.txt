@@ -1,0 +1,5 @@
+welcome to git hub
+
+git is version control 
+
+using git we can see the hisotry of the every action
